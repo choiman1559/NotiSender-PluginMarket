@@ -38,4 +38,4 @@ tag=Development,Example,Showcase
 license=GPL-3.0
 
 #(REQUIRED) Android package name of plugin
-packageName=com.noti.plugin.telephony
+packageName=com.noti.plugin.showcase
