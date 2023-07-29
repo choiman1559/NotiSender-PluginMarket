@@ -1,0 +1,13 @@
+projectName=TelephonyPlugin
+author=Choiman1559
+contact=cuj1559@gmail.com
+description=Plugin for Call & Message Synchronization
+repositoryLink=https://github.com/choiman1559/NotiSender-TelephonyPlugin
+downloadLink=https://github.com/choiman1559/NotiSender-TelephonyPlugin/releases/latest
+latestVersion=1.0.7
+isWebApp=false
+useFluentIcon=true
+iconName=video_person_call
+iconUrl=
+tag=Synchronization,Telephony,Call,Message
+license=GPL-3.0

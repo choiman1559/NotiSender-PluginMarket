@@ -1,0 +1,13 @@
+projectName=InstantMessage
+author=Choiman1559
+contact=cuj1559@gmail.com
+description=Simple chat application between devices
+repositoryLink=https://github.com/choiman1559/NotiSender-InstantMessage
+downloadLink=https://github.com/choiman1559/NotiSender-InstantMessage/releases/latest
+latestVersion=1.0.0
+isWebApp=false
+useFluentIcon=false
+iconName=
+iconUrl=https://someurl.com/blob/imageExample.jpg
+tag=Message,Chat,Communication,Social
+license=GPL-3.0

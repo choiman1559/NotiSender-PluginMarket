@@ -1,0 +1,13 @@
+projectName=PluginShowcase
+author=Choiman1559
+contact=cuj1559@gmail.com
+description=Example application for plugin development
+repositoryLink=https://github.com/choiman1559/NotiSender-PluginShowcase
+downloadLink=https://github.com/choiman1559/NotiSender-PluginShowcase/releases/latest
+latestVersion=1.0.0
+isWebApp=false
+useFluentIcon=true
+iconName=window_dev_tools
+iconUrl=
+tag=Development,Example,Showcase
+license=GPL-3.0
