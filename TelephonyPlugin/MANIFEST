@@ -1,4 +1,4 @@
-projectName=TelephonyPlugin #Name of plugin
+pluginName=NotiSender Telephony Plugin #Name of plugin, This name will be displayed at NotiSender
 author=Choiman1559 #Author of plugin. Basically Github user name
 contact=cuj1559@gmail.com #E-Mail address for contact
 description=Plugin for Call & Message Synchronization #Simple description of plugin
