@@ -1,28 +1,28 @@
-#Name of plugin, This name will be displayed at NotiSender
+#(REQUIRED) Name of plugin, This name will be displayed at NotiSender
 pluginName=PluginLibrary Showcase
 
-#Author of plugin. Basically Github user name
+#(REQUIRED) Author of plugin. Basically Github user name
 author=Choiman1559
 
 #E-Mail address for contact
 contact=cuj1559@gmail.com
 
-#Simple description of plugin
+#(REQUIRED) Simple description of plugin
 description=Example application for plugin development
 
 #Github (or other repo host site) repo link of plugin, Blank this item if plugin is proprietary software
 repositoryLink=https://github.com/choiman1559/NotiSender-PluginShowcase
 
-#Download link that user can actually download the apk file
+#(REQUIRED) Download link that user can actually download the apk file
 downloadLink=https://github.com/choiman1559/NotiSender-PluginShowcase/releases/latest
 
-#Latest version of plugin, Only number and dot(.) allowed, Semantic versioning recommended
+#(REQUIRED) Latest version of plugin, Only number and dot(.) allowed, Semantic versioning recommended
 latestVersion=1.0.0
 
 #Currently not used properties, default value is false
 isWebApp=false
 
-#Whether the icon to be displayed in NotiSender is a fluent icon, if true, "iconName" attribute is used, if false, "iconUrl" attribute is used
+#(REQUIRED) Whether the icon to be displayed in NotiSender is a fluent icon, if true, "iconName" attribute is used, if false, "iconUrl" attribute is used
 useFluentIcon=true
 
 #Name of Fluent icon, Icon is always 24_regular style
@@ -37,5 +37,5 @@ tag=Development,Example,Showcase
 #License of plugin, Write "Proprietary" if plugin is proprietary software
 license=GPL-3.0
 
-#Android package name of plugin
+#(REQUIRED) Android package name of plugin
 packageName=com.noti.plugin.telephony
