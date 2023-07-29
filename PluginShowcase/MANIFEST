@@ -29,7 +29,7 @@ useFluentIcon=true
 iconName=window_dev_tools
 
 #Link must be end with .jpg (.jpeg) or .png to get icon
-iconUrl=
+iconUrl=https://someurl.com/blob/imageExample.jpg
 
 #List of tags, each icon is seperated as ","
 tag=Development,Example,Showcase
