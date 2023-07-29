@@ -11,3 +11,4 @@ iconName=window_dev_tools
 iconUrl=
 tag=Development,Example,Showcase
 license=GPL-3.0
+packageName=com.noti.plugin.telephony

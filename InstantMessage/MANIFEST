@@ -11,3 +11,4 @@ iconName=
 iconUrl=https://someurl.com/blob/imageExample.jpg
 tag=Message,Chat,Communication,Social
 license=GPL-3.0
+packageName=com.noti.plugin.message

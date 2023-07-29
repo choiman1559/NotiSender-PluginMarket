@@ -11,3 +11,4 @@ iconName=video_person_call #Name of Fluent icon, Icon is always 24_regular style
 iconUrl= #Link must be end with .jpg (.jpeg) or .png to get icon
 tag=Synchronization,Telephony,Call,Message #List of tags, each icon is seperated as ","
 license=GPL-3.0 #License of plugin, Write "Proprietary" if plugin is proprietary software
+packageName=com.noti.plugin.showcase #Android package name of plugin
