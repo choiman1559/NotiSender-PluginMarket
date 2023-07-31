@@ -39,3 +39,6 @@ license=GPL-3.0
 
 #(REQUIRED) Android package name of plugin
 packageName=com.noti.plugin.showcase
+
+#Visibility in NotiSender
+visible=true

@@ -12,3 +12,4 @@ iconUrl=
 tag=Message,Chat,Communication,Social
 license=GPL-3.0
 packageName=com.noti.plugin.message
+visible=false

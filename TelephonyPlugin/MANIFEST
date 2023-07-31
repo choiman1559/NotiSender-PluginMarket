@@ -11,4 +11,5 @@ iconName=video_person_call
 iconUrl=
 tag=Synchronization,Telephony,Call,Message
 license=GPL-3.0 
-packageName=com.noti.plugin.telephony 
+packageName=com.noti.plugin.telephony
+visible=true 
